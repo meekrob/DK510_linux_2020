@@ -8,5 +8,6 @@ I used the following commands within Vagrant/Virtualbox:
 
 `rpm2cpio tree-1.6.0-10.el7.src.rpm  | cpio -dium`
 
-This created tree-1.6.0.tgz and other files which I'm not including here.
+This created tree-1.6.0.tgz and other files which I'm not including here. The `yumdownloader` step doesn't work on Summit, I think
+because the repos aren't configured.
 
