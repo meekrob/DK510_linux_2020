@@ -1,2 +1,9 @@
+# created during notebook saving
 .ipynb_checkpoints/
+
+# expanded during installation of tree
 tree-1.6.0/
+
+# downloaded during 2nd lesson
+Amel_HAv3.1_genomic.gff 
+GCF_003254395.2_Amel_HAv3.1_genomic.gff.gz
