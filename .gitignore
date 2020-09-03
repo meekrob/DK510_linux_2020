@@ -1,3 +1,7 @@
+# going to make the base files _orig, and not check in the 'saved as' versions
+Variables.ipynb
+
+
 # not using subdirs for the notebooks anymore, but there may be local files generated during development
 01_linux_scripting_variables/
 02_linux_scripting_capturing_command_output/
