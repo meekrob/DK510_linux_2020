@@ -2,6 +2,9 @@
 01_linux_scripting_variables/
 02_linux_scripting_capturing_command_output/
 
+# get untracked files out of the way
+old/
+
 # generated during pandoc, or exports
 *.md
 *.doku
