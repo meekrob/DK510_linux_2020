@@ -1,3 +1,11 @@
+# not using subdirs for the notebooks anymore, but there may be local files generated during development
+01_linux_scripting_variables/
+02_linux_scripting_capturing_command_output/
+
+# generated during pandoc, or exports
+*.md
+*.doku
+
 # created during notebook saving
 .ipynb_checkpoints/
 
