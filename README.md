@@ -1,4 +1,4 @@
-# DSCI512_linux_2020
+# DK512_linux_2020
 Notebook files for DSCI 512 Linux 2020
 
 ## Source code for tree-1.6.0
