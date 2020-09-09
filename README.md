@@ -1,4 +1,6 @@
-# Notebook files for DCSI 510_linux_2020
+# Notebook files for DCSI 510 linux (2020)
+
+I've named the repo DK_ to make it easier to distinguish from students' other DSCI directories made in previous lectures.
 
 ## Run a server on jupyter.rc.colorado.edu
 
